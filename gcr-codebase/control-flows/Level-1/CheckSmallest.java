@@ -2,7 +2,7 @@
 import java.util.Scanner;
 public class CheckSmallest {
 	public static void main( String []args ) {
-		Scanner input = new Scanner(System.in);
+		Scanner read = new Scanner(System.in);
 			//take 3 variable as input from user
 			System.out.println("Enter three numbers : ");
 			int number1 = input.nextInt();
