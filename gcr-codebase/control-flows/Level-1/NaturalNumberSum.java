@@ -1,10 +1,10 @@
 import java.util.Scanner;
 public class NaturalNumberSum {
 	public static void main(String []args) {
-		Scanner read = new Scanner(System.in);
+		Scanner scanner = new Scanner(System.in);
 		//declare variable number and user input 
 		System.out.println("Enter the number : ");
-		int number = read.nextInt();
+		int number = scanner.nextInt();
 		
 		// check for natural number and sum of natural number 
 		if(number > 0) {
@@ -18,7 +18,7 @@ public class NaturalNumberSum {
 		}
 		
 		//close the Scanner object
-		read.close();
+		scanner.close();
 	}
 }	
 		
