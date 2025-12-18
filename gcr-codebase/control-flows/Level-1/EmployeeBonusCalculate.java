@@ -1,10 +1,10 @@
 import java.util.Scanner;
 public class EmployeeBonusCalculate {
 	public static void main(String []args) {
-		Scanner input = new Scanner(System.in);
+		Scanner read = new Scanner(System.in);
 		//declare variable and take user input 
 		System.out.print("Enter the year of service : ");
-		int yearOfService = input.nextInt();
+		int yearOfService = read.nextInt();
 		System.out.print("and salary : ");
 		int salary = input.nextInt();
 		
@@ -16,6 +16,6 @@ public class EmployeeBonusCalculate {
 		
 		//print the bonus and close the scanner object
 		System.out.println("The bonus amount : " + bonus);
-		input.close();
+		read.close();
 	}
 }	
