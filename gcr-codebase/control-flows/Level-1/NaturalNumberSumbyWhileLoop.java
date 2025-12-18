@@ -1,10 +1,10 @@
 import java.util.Scanner;
 public class NaturalNumberSumbyWhileLoop  {
 	public static void main(String []args) {
-		Scanner read = new Scanner(System.in);
+		Scanner scanner = new Scanner(System.in);
 		//declare variable number and user input 
 		System.out.println("Enter the number : ");
-		int number = read.nextInt();
+		int number = scanner.nextInt();
 		
 		// check if natural number, then calculate sum by formula and with looping statement
 		if(number > 0) {
@@ -27,7 +27,7 @@ public class NaturalNumberSumbyWhileLoop  {
 		}
 		
 		//close the Scanner object
-		read.close();
+		scanner.close();
 	}
 }	
 		
