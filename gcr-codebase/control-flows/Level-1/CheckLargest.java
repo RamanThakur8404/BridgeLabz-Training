@@ -2,12 +2,12 @@ import java.util.Scanner;
 public class CheckLargest {
 	public static void main(String []args) {
 		
-		Scanner read = new Scanner(System.in);
+		Scanner input = new Scanner(System.in);
 		//take 3 variable numbers as input from user
 		int number1, number2, number3;
-		number1 = read.nextInt();
-		number2 = read.nextInt();
-		number3 = read.nextInt();
+		number1 = input.nextInt();
+		number2 = input.nextInt();
+		number3 = input.nextInt();
 			
 		//check whether number is largest or not 
 		if((number1 > number2) && (number1 > number3)){
