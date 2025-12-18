@@ -17,7 +17,7 @@ public class CheckVoteEligibility {
 		}	
 	
 		// close the scanner object
-		input.close();
+		read.close();
 	}
 }	
 		
