@@ -4,10 +4,10 @@ public class OddEvenNumberPrint {
 		Scanner input = new Scanner(System.in);
 		//declare variable and take user input 
 		System.out.println("Enter the number : ");
-		int number = input.nextInt();
+		int numbers = input.nextInt();
 		
 		//using for loop
-		for(int value = 1;value<=number;value++){
+		for(int value = 1;value<=numbers;value++){
 			if(value % 2 == 0){
 				System.out.println("The number "+value+" is Even Number");
 			}
