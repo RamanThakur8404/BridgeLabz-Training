@@ -2,10 +2,10 @@ import java.util.Scanner;
 public class CheckVoteEligibility {
 	public static void main( String []args ) {
 		
-		Scanner input = new Scanner(System.in);
+		Scanner read = new Scanner(System.in);
 		//take input from the user
 		System.out.println("Enter your current age : ");
-		int age = input.nextInt();
+		int age = read.nextInt();
 		
 		// check eligible by conditional statement
 		if(age >= 18){
