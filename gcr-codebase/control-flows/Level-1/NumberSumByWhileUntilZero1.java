@@ -5,16 +5,16 @@ public class NumberSumByWhileUntilZero1 {
 		// taking user input and assign variable total as 0.0
 		double total = 0.0;
 		System.out.println("Enter the number: ");
-		double value = input.nextDouble();
+		double values = input.nextDouble();
 		
 		//apply looping statement
 		while(true){
-			if(value<=0){
+			if(values<=0){
 			break;
 			}
-			total += value;
+			total += values;
 			System.out.println("Enter the number: ");
-			value = input.nextDouble();
+			values = input.nextDouble();
 		}
 		
 		//printing the output and close the scanner object
