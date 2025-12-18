@@ -30,6 +30,6 @@ public class CheckLargest {
 		}
 		
 		//closing scanner object
-		read.close();
+		input.close();
 	}
 }	
