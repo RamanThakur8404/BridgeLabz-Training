@@ -1,10 +1,10 @@
 import java.util.Scanner;
 public class MultiplicationTable{
 	public static void main(String []args) {
-		Scanner scanner = new Scanner(System.in);
+		Scanner input = new Scanner(System.in);
 		//declare variable and take user input 
 		System.out.println("Enter the number: ");
-		int number = scanner.nextInt();
+		int number = input.nextInt();
 		
 		// check whether the input is between 6 to 9
 		// if yes, print the multiplication table
@@ -18,6 +18,6 @@ public class MultiplicationTable{
 		}
 	
 		//close the scanner object
-		scanner.close();
+		input.close();
 	}
 }	
