@@ -1,10 +1,10 @@
 import java.util.Scanner;
 public class NumberCountDown {
 	public static void main(String []args) {
-		Scanner read = new Scanner(System.in);
+		Scanner scanner = new Scanner(System.in);
 		// take input from user
 		System.out.println("Enter the input value of number: ");
-		int counter = read.nextInt();
+		int counter = scanner.nextInt();
 		
 		//using looping statements
 		System.out.println("Countdown start : "); 
@@ -14,7 +14,7 @@ public class NumberCountDown {
 		}
 
 		//close the scanner object
-		read.close();
+		scanner.close();
 	}
 }	
 		
