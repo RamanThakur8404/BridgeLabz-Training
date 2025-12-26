@@ -1,25 +1,14 @@
 # Eclipse specific files
 
-.metadata/
+/gcr-codebase/.metadata/
 
-.settings/
+/gcr-codebase/javaOopsConcepts/.settings
 
-.classpath
+/gcr-codebase/javaOopsConcepts/.classpath
 
-.project
+/gcr-codebase/javaOopsConcepts/.project
 
 # Java build output
 
-bin/
+/gcr-codebase/javaOopsConcepts/bin/
 
-target/
-
-# Logs
-
-*.log
-
-# OS generated files
-
-.DS_Store
-
-Thumbs.db
