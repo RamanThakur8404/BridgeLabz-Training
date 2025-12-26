@@ -38,18 +38,13 @@ https://github.com/RamanThakur8404/BridgeLabz-Training/
 
 ```
 BridgeLabz-Training/
-│── core-java-practice/
-│   │── gcr-codebase/
-│   │   │── arrays/
-│   │   │── control-flow/
-│   │   │── extras/
-│   │   │── methods/
-│   │   │── programming-elements/
-│   │   │── programming-requisites/
-│   │   │── strings/
-│   │── leet-code-codebase/
-│   │── scenario-based-codebase/
-│── README.md
+├── core-java-practice/
+│   ├── programming-elements
+│   ├── control-flow
+│   ├── arrays
+│   ├── gcr-codebase
+├── scenario-based
+├── leet-code-codebase
 ```
 
 **🔗 Repository Structure Link:**  
