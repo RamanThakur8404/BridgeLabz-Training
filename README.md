@@ -177,3 +177,21 @@ https://github.com/RamanThakur8404/BridgeLabz-Training/tree/core-java-practice/g
 https://github.com/RamanThakur8404/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
 
 ---
+
+## 📅 Day 10 – Core Java Scenario-Based Programs  
+**(Date: 26-Dec-2025)**
+
+- Continued working on **advanced scenario-based Core Java problems**.
+- Applied concepts:
+  - Scanner input, variables & primitive data types  
+  - if-else & switch decision handling  
+  - for, while & do-while loops  
+  - Ternary operator usage  
+  - break & continue control flow  
+  - Clean-code formatting, indentation & meaningful comments
+
+ **🔗 Code Link:**  
+https://github.com/RamanThakur8404/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
+
+---
+
