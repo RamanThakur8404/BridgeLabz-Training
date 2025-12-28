@@ -9,7 +9,7 @@ public class HotelBooking {
 	// default constructor
 	public HotelBooking() {
 		guestName = "Rohan Mishra";
-		roomType = "AC";
+		roomType = "NON-AC";
 		nights = 1;
 	}
 	
