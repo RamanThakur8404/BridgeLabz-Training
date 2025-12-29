@@ -195,3 +195,51 @@ https://github.com/RamanThakur8404/BridgeLabz-Training/tree/core-java-practice/s
 
 ---
 
+---
+
+## 📅 Day 11 – Core Java Scenario-Based Problems  
+**(Date: 29-Dec-2025)**
+
+Worked on new **real-world Core Java scenario-based problems**. Applied loops, conditionals, and clean coding practices.
+
+**Problems Implemented:**
+
+1. 🚗 **Parking Lot Gate System**  
+   - Develop a smart parking system.  
+   - Options: Park, Exit, Show Occupancy  
+   - Used `switch-case` for menu selection.  
+   - `while` loop continues until the parking lot is full or the user exits.
+
+2. 🎲 **The Number Guessing Game**  
+   - Player guesses a number between 1 and 100.  
+   - Used `do-while` loop.  
+   - Gives hints: "Too high" or "Too low".  
+   - Counts attempts and exits after 5 wrong tries.
+
+3. 🛍️ **Shopkeeper’s Discount Dashboard**  
+   - Shopkeeper gives discounts based on total bill.  
+   - Input item prices in a `for` loop.  
+   - Used `if-else` for discount logic.  
+   - Followed proper indentation, constants, and comments.
+
+4. 🚍 **School Bus Attendance System**  
+   - Track 10 students' presence.  
+   - Used `for-each` loop on student names.  
+   - Asked "Present or Absent?" for each student.  
+   - Printed total present and absent counts.
+
+5. 📱 **Phone Recharge Simulator**  
+   - Take the user's mobile operator and recharge amount.  
+   - Used `switch` to display operator offers.  
+   - Loop allows repeated recharges.  
+   - Show balance after each recharge.
+
+Followed clean coding practices:
+- Proper naming conventions
+- Indentation and structure
+- Meaningful comments
+
+Organized all **scenario-based programs** in the `core-java-practice` branch.
+
+**🔗 Code Link:**  
+https://github.com/RamanThakur8404/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
