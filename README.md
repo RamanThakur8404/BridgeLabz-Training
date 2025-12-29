@@ -59,5 +59,33 @@ Organized all constructor and static-related programs in the `java-oops-practice
 
 ---
 
+📅 **Day 13 – Java OOPS: Core Java Keywords**  
+*(Date: 29-Dec-2025)*  
+**Focus:** static, final, this, instanceof
+
+Studied essential Java keywords and their role in OOPS-based programming.
+
+Learned:
+- Use of `static` for class-level variables and methods
+- `final` keyword to restrict modification of variables, methods, and classes
+- `this` keyword to refer to the current object and resolve ambiguity
+- `instanceof` operator to check object type at runtime
+
+Practiced:
+- Implementing small programs to observe keyword behavior
+- Understanding memory usage and object interaction
+
+Followed clean coding standards:
+- Proper naming conventions
+- Readable structure and indentation
+- Consistent formatting
+
+Organized all keyword-based programs systematically in the `java-oops-practice` branch.
+
+🔗 **Code Link:**  
+[Day-13 Practice problem of static,final, this and instanceof](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcepts/src/com/inbuiltfunction)
+
+---
+
 📌 **Note:**  
 This branch is a continuation of **Core Java Training (Day 1–10)** and focuses on **Object-Oriented Programming concepts** in Java.
