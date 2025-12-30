@@ -243,3 +243,73 @@ Organized all **scenario-based programs** in the `core-java-practice` branch.
 
 **🔗 Code Link:**  
 https://github.com/RamanThakur8404/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
+
+---
+
+## 📅 Day 12 – Core Java Scenario-Based Problems  
+**(Date: 30-Dec-2025)**
+
+Worked on new real-world **Core Java scenario-based problems**. Applied loops, conditionals, arrays, and clean coding practices to simulate practical systems.
+
+### 🔹 Problems Implemented:
+
+---
+
+### 🌡️ Temperature Logger
+- Recorded temperatures over **7 days** using an array.
+- Used `for-loop` to input data.
+- Calculated:
+  - Average temperature
+  - Maximum temperature
+- Used `if` conditions for comparisons.
+- Maintained readable variable names and modular logic.
+
+---
+
+### 🚆 Train Reservation Queue
+- Simulated a basic **ticket booking system**.
+- Displayed menu using `switch-case`.
+- Allowed multiple bookings using `while-loop`.
+- Stopped booking once seats reached zero using `break`.
+
+---
+
+### 🏋️ Sandeep’s Fitness Challenge Tracker
+- Stored daily push-up counts for a **week**.
+- Used `for-each loop` to calculate:
+  - Total push-ups
+  - Average push-ups
+- Used `continue` to skip rest days.
+
+---
+
+### 🎬 Movie Ticket Booking App
+- Asked users for:
+  - Movie type
+  - Seat type (Gold / Silver)
+  - Snacks selection
+- Used `switch` and `if-else` together.
+- Looped through multiple customers.
+- Followed clean structure and meaningful variable naming.
+
+---
+
+### 📚 Rohan’s Library Reminder App
+- Calculated library fines based on:
+  - Due date
+  - Return date
+- Fine charged: **₹5 per day** for late returns.
+- Repeated fine calculation for **5 books** using `for-loop`.
+
+---
+
+### 📌 Clean Coding Practices Followed:
+- Proper naming conventions
+- Consistent indentation & structure
+- Meaningful comments
+- Modular and readable code
+
+All scenario-based programs are organized under the **core-java-practice** branch.
+
+🔗 **Code Link:**  
+https://github.com/RamanThakur8404/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
