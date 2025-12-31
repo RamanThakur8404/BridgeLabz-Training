@@ -313,3 +313,44 @@ All scenario-based programs are organized under the **core-java-practice** branc
 
 🔗 **Code Link:**  
 https://github.com/RamanThakur8404/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
+
+## 📅 Day 13 – Core Java Scenario-Based Problems  
+**(Date: 31-Dec-2025)**
+
+Worked on additional **real-world Core Java scenario-based problems**. Applied loops, conditionals, arrays, and clean coding practices.
+
+### Problems Implemented
+
+**⏱️ Digital Watch Simulation**  
+- Simulated a 24-hour digital watch.  
+- Printed hours and minutes using nested `for-loops`.  
+- Used `break` to stop at 13:00 (simulate power cut).
+
+**🧠 Online Quiz Application**  
+- Asked 5 MCQs to the user.  
+- Used arrays and `for-loop`.  
+- Recorded score, checked answers with `switch`.  
+
+**💱 Currency Exchange Kiosk**  
+- Took INR amount and target currency.  
+- Used `switch` to apply conversion rate.  
+- Repeated conversion using `do-while`.
+
+**🚌 Bus Route Distance Tracker**  
+- Tracked bus distance at each stop.  
+- Used `while-loop` with total distance tracker.  
+- Exit on passenger confirmation.
+
+**🎉 Festival Lucky Draw**  
+- Visitors draw a number.  
+- Divisible by 3 and 5 → win a gift.  
+- Used `if`, modulus, loops, and `continue` for invalid input.
+
+**Clean Coding Practices Followed:**  
+- Proper naming conventions  
+- Indentation & structure  
+- Meaningful comments  
+- Modular, readable code  
+
+All programs are under **core-java-practice** branch.  
+🔗 **Code Link:** [Scenario-Based Code](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
