@@ -1,0 +1,6 @@
+package com.polymorphismandencapsulation.hospitalmanagement;
+
+public interface MedicalRecord {
+	void addRecord(String record);
+    void viewRecords();
+}
