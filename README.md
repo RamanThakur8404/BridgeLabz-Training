@@ -87,5 +87,128 @@ Organized all keyword-based programs systematically in the `java-oops-practice` 
 
 ---
 
-📌 **Note:**  
-This branch is a continuation of **Core Java Training (Day 1–10)** and focuses on **Object-Oriented Programming concepts** in Java.
+## 📅 Day 14 – Java OOPS: Data Modeling & Object Relationships  
+**Date:** 30-Dec-2025  
+**Focus:** Association, Aggregation & Composition  
+
+### What I Learned
+- Data modeling in object-oriented design
+- Object relationships in real-world systems
+- Association between independent objects
+- Aggregation (has-a relationship with independent lifecycle)
+- Composition (strong dependency relationship)
+
+### Practice
+- Designing class diagrams conceptually
+- Implementing real-world examples using Java classes
+
+🔗 **Code Link:**  
+[Day 14 – Data Modeling & Object Relationships](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcepts/src/com/objectmodeling)
+
+---
+
+## 📅 Day 15 – Java OOPS: Inheritance  
+**Date:** 31-Dec-2025  
+**Focus:** Inheritance & Code Reusability  
+
+### What I Learned
+- Inheritance and parent–child relationships
+- Single, multilevel, and hierarchical inheritance
+- Method overriding
+- `extends` and `super` keywords
+
+### Practice
+- Reusing code using inheritance
+- Overriding methods for customized behavior
+
+🔗 **Code Link:**  
+👉 [Day 15 – Inheritance](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcepts/src/com/inheritance)
+
+---
+
+## 📅 Day 16 – Java OOPS: Encapsulation, Polymorphism, Abstract Classes & Interfaces  
+**Date:** 01-Jan-2026  
+**Focus:** Encapsulation, Polymorphism, Abstract Classes & Interfaces  
+
+### What I Learned & Implemented
+- Encapsulation using private variables and getters/setters
+- Polymorphism with method overriding
+- Abstract classes for partial abstraction
+- Interfaces to define standard contracts
+
+### Practice
+- Identifying entities and responsibilities
+- Designing classes, methods, and relationships
+- Writing modular and maintainable code
+
+🔗 **Code Links:**  
+👉 [Encapsulation, Polymorphism, Abstract Classes & Interfaces](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcepts/src/com/polymorphismandencapsulation)
+
+---
+
+## 📅 Day 17 – Java OOPS: Real-World Scenario-Based Programming  
+**Date:** 02-Jan-2026  
+**Focus:** Applying Core OOPS Concepts through Real-World Use Cases  
+
+Worked on multiple **story-driven Java applications** to understand how OOPS concepts are applied together in real-world systems.
+
+### Scenarios Covered
+- Vehicle Rental Application  
+- University Course Enrollment System  
+- E-Wallet Application  
+- Smart Home Automation System  
+
+### Concepts Applied
+- Classes, Constructors, Interfaces  
+- Access Modifiers & Operators  
+- Encapsulation, Inheritance, Abstraction, Polymorphism  
+
+Focused on clean, modular, and maintainable code design.
+
+🔗 **Scenario Codebase:**  
+👉 [Scenario Codebase](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioOopsPractice/src)
+
+---
+
+## 📅 Day 18 – Java OOPS: Advanced Backend System Design  
+**Date:** 03-Jan-2026  
+**Focus:** Startup-Scale Backend Logic using OOPS  
+
+Designed backend logic for **industry-inspired applications**, emphasizing secure data handling and scalable design.
+
+### Scenarios Covered
+- CabbyGo – Ride-Hailing Application  
+- MyBank – Customer Account Management System  
+
+### Concepts Applied
+- Interfaces for service abstraction  
+- Inheritance for account and vehicle types  
+- Polymorphism for fare and interest calculation  
+- Encapsulation for sensitive data like balance and fare  
+
+🔗 **Scenario Codebase:**  
+👉 [Scenario Codebase](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioOopsPractice/src)
+
+---
+
+## 📅 Day 19 – Java OOPS: Academic & E-Commerce System Design  
+**Date:** 05-Jan-2026  
+**Focus:** Large-Scale System Modeling using OOPS  
+
+Worked on **complex academic and e-commerce systems**, focusing on real-world data flow and business logic.
+
+### Scenarios Covered
+- CampusConnect – College Information System  
+- SwiftCart – Grocery Shopping Application  
+
+### Concepts Applied
+- Base and derived classes  
+- Interfaces for course and checkout operations  
+- GPA and price calculations using operators  
+- Strong encapsulation and polymorphic behavior  
+
+🔗 **Scenario Codebase:**  
+👉 👉 [Scenario Codebase](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioOopsPractice/src)
+
+---
+
