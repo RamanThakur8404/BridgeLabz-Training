@@ -88,7 +88,7 @@ Organized all keyword-based programs systematically in the `java-oops-practice` 
 ---
 
 ## 📅 Day 14 – Java OOPS: Data Modeling & Object Relationships  
-**Date:** 30-Dec-2025  
+*(Date: 30-Dec-2025)*  
 **Focus:** Association, Aggregation & Composition  
 
 ### What I Learned
@@ -108,7 +108,7 @@ Organized all keyword-based programs systematically in the `java-oops-practice` 
 ---
 
 ## 📅 Day 15 – Java OOPS: Inheritance  
-**Date:** 31-Dec-2025  
+*(Date: 31-Dec-2025)*  
 **Focus:** Inheritance & Code Reusability  
 
 ### What I Learned
@@ -127,7 +127,7 @@ Organized all keyword-based programs systematically in the `java-oops-practice` 
 ---
 
 ## 📅 Day 16 – Java OOPS: Encapsulation, Polymorphism, Abstract Classes & Interfaces  
-**Date:** 01-Jan-2026  
+*(Date: 01-Jan-2026)*  
 **Focus:** Encapsulation, Polymorphism, Abstract Classes & Interfaces  
 
 ### What I Learned & Implemented
@@ -147,7 +147,7 @@ Organized all keyword-based programs systematically in the `java-oops-practice` 
 ---
 
 ## 📅 Day 17 – Java OOPS: Real-World Scenario-Based Programming  
-**Date:** 02-Jan-2026  
+*(Date: 02-Jan-2026)*  
 **Focus:** Applying Core OOPS Concepts through Real-World Use Cases  
 
 Worked on multiple **story-driven Java applications** to understand how OOPS concepts are applied together in real-world systems.
@@ -171,7 +171,7 @@ Focused on clean, modular, and maintainable code design.
 ---
 
 ## 📅 Day 18 – Java OOPS: Advanced Backend System Design  
-**Date:** 03-Jan-2026  
+*(Date: 03-Jan-2026)*  
 **Focus:** Startup-Scale Backend Logic using OOPS  
 
 Designed backend logic for **industry-inspired applications**, emphasizing secure data handling and scalable design.
@@ -192,7 +192,7 @@ Designed backend logic for **industry-inspired applications**, emphasizing secur
 ---
 
 ## 📅 Day 19 – Java OOPS: Academic & E-Commerce System Design  
-**Date:** 05-Jan-2026  
+*(Date: 05-Jan-2026)*  
 **Focus:** Large-Scale System Modeling using OOPS  
 
 Worked on **complex academic and e-commerce systems**, focusing on real-world data flow and business logic.
@@ -208,7 +208,61 @@ Worked on **complex academic and e-commerce systems**, focusing on real-world da
 - Strong encapsulation and polymorphic behavior  
 
 🔗 **Scenario Codebase:**  
-👉 👉 [Scenario Codebase](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioOopsPractice/src)
+👉 [Scenario Codebase](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioOopsPractice/src)
+
+---
+
+## 📅 Day 20 – Java OOPS: Scenario-Based Practice  
+*(Date: 06-Jan-2026)*  
+**Focus:** Applying Core OOPS Concepts through Real-World Use Cases
+---
+
+## 🎓 EduMentor – Personalized Learning Platform  
+
+- Designed an AI-based learning system to manage users and quizzes.
+- Created a base `User` class with `Learner` and `Instructor` as child classes.
+- Used an interface to generate course certificates.
+- Implemented quiz scoring and percentage calculation.
+- Applied encapsulation to protect quiz answers and internal question data.
+- Used polymorphism for different certificate generation logic.
+
+---
+
+## 🏃 FitTrack – Personal Fitness Tracker  
+
+- Built a fitness tracking system to monitor workouts and progress.
+- Created user profiles with default and custom fitness goals.
+- Used inheritance for different workout types.
+- Applied encapsulation to protect private health data.
+- Calculated calorie progress using operators.
+- Used polymorphism to calculate calories differently for each workout.
+
+---
+
+## 🐾 PetPal – Virtual Pet Care App  
+
+- Developed a virtual pet care system for dogs, cats, and birds.
+- Used inheritance to represent different pet types.
+- Applied interfaces for pet interactions like feed and play.
+- Protected pet mood and hunger using encapsulation.
+- Used operators to update energy and hunger levels.
+- Implemented polymorphism for pet sounds.
+
+---
+
+## 🎉 EventEase – Event Management Platform  
+
+- Designed an event booking and scheduling system.
+- Created base and child event types using inheritance.
+- Used interfaces to manage event scheduling actions.
+- Protected event IDs and pricing details using encapsulation.
+- Calculated event cost using operators.
+- Applied polymorphism for different event scheduling behavior.
+
+---
+
+🔗 **Scenario Codebase (java-oops-practice):**  
+👉 [Scenario Codebase](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioOopsPractice/src)
 
 ---
 
