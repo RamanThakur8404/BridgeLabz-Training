@@ -1,6 +1,6 @@
 # BridgeLabz Training — Java DSA Learning Progress  
 ## Week 3: Data Structure
-## 📅 Day 15 – Data Structures & Algorithms: Linked List  
+## 📅 Day 1 – Data Structures & Algorithms: Linked List  
 *(Date: 02-Jan-2026)*  
 **Focus:** DSA Fundamentals – Linked List Variants  
 
@@ -20,11 +20,11 @@ On this day, I studied **Linked Lists** as a core linear data structure used for
 - Organized all Linked List programs systematically in the **DSA practice branch**.
 
 🔗 **Code Link:**  
-👉 [Day 15 – Linked List (DSA)](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/datastructure/linkedlist)
+👉 [Day 1 – Linked List (DSA)](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/datastructure/linkedlist)
 
 ---
 
-## 📅 Day 16 – Data Structures & Algorithms: Stack, Queue & Hashing  
+## 📅 Day 2 – Data Structures & Algorithms: Stack, Queue & Hashing  
 *(Date: 03-Jan-2026)*  
 **Focus:** DSA Fundamentals – Stack, Queue, HashMap & Hashing  
 
@@ -45,6 +45,28 @@ This day focused on understanding **stack, queue, and hashing techniques** for e
 - Organized all Stack, Queue, and Hashing programs in the **DSA practice branch**.
 
 🔗 **Code Link:**  
-👉 [Day 16 – Stack, Queue & Hashing (DSA)](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/datastructure)
+👉 [Day 2 – Stack, Queue & Hashing (DSA)](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/datastructure)
 ---
- 
+
+# 📅 Day 3 – Sorting Algorithms  
+
+*(Date: 05-Jan-2026)*  
+**Focus:** DSA – Sorting Techniques  
+
+Today, I learned how **sorting algorithms** help arrange data efficiently.
+
+## Key Learnings
+- Understood why sorting is important.
+- Learned **Bubble Sort** (swaps adjacent elements).
+- Learned **Insertion Sort** (inserts elements in the correct position).
+- Learned **Merge Sort** using divide and conquer.
+- Learned **Quick Sort** using a pivot element.
+- Compared time and space complexity.
+- Understood **stable vs unstable** sorting.
+- Implemented all algorithms using **Java**.
+- Wrote clean and well-structured code.
+- Organized code in the DSA practice branch.
+
+🔗 **Code Link:**  
+👉 [Day 3 – Sorting Algorithms (DSA)](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/datastructure/sorting)
+
