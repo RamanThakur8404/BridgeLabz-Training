@@ -3,7 +3,7 @@
 
 ---
 
-📅 **Day 11 – Java OOPS: Class & Object**  
+📅 **Day 1 – Java OOPS: Class & Object**  
 *(Date: 26-Dec-2025)*  
 **Focus:** Core OOPS Fundamentals – Classes and Objects
 
@@ -28,11 +28,11 @@ Followed clean coding practices:
 Systematically organized all **Class & Object** programs in the `java-oops-practice` branch.
 
 🔗 **Code Link:**  
-[Day-11 Class And Object](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcepts/src/com/classandobject)
+[Day-1 Class And Object](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcepts/src/com/classandobject)
 
 ---
 
-📅 **Day 12 – Java OOPS: Constructors & Class-Level Concepts**  
+📅 **Day 2 – Java OOPS: Constructors & Class-Level Concepts**  
 *(Date: 27-Dec-2025)*  
 **Focus:** Constructors, Instance vs Class Variables & Methods
 
@@ -55,11 +55,11 @@ Maintained clean-code standards with proper formatting and structure.
 Organized all constructor and static-related programs in the `java-oops-practice` branch.
 
 🔗 **Code Link:**  
-[Day-12 Constructor, Instance vs Class Variables & Methods](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcepts/src/com/constructor)
+[Day-2 Constructor, Instance vs Class Variables & Methods](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcepts/src/com/constructor)
 
 ---
 
-📅 **Day 13 – Java OOPS: Core Java Keywords**  
+📅 **Day 3 – Java OOPS: Core Java Keywords**  
 *(Date: 29-Dec-2025)*  
 **Focus:** static, final, this, instanceof
 
@@ -83,11 +83,11 @@ Followed clean coding standards:
 Organized all keyword-based programs systematically in the `java-oops-practice` branch.
 
 🔗 **Code Link:**  
-[Day-13 Practice problem of static,final, this and instanceof](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcepts/src/com/inbuiltfunction)
+[Day-3 Practice problem of static,final, this and instanceof](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcepts/src/com/inbuiltfunction)
 
 ---
 
-## 📅 Day 14 – Java OOPS: Data Modeling & Object Relationships  
+## 📅 Day 4 – Java OOPS: Data Modeling & Object Relationships  
 *(Date: 30-Dec-2025)*  
 **Focus:** Association, Aggregation & Composition  
 
@@ -103,11 +103,11 @@ Organized all keyword-based programs systematically in the `java-oops-practice` 
 - Implementing real-world examples using Java classes
 
 🔗 **Code Link:**  
-[Day 14 – Data Modeling & Object Relationships](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcepts/src/com/objectmodeling)
+[Day 4 – Data Modeling & Object Relationships](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcepts/src/com/objectmodeling)
 
 ---
 
-## 📅 Day 15 – Java OOPS: Inheritance  
+## 📅 Day 5 – Java OOPS: Inheritance  
 *(Date: 31-Dec-2025)*  
 **Focus:** Inheritance & Code Reusability  
 
@@ -122,11 +122,11 @@ Organized all keyword-based programs systematically in the `java-oops-practice` 
 - Overriding methods for customized behavior
 
 🔗 **Code Link:**  
-👉 [Day 15 – Inheritance](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcepts/src/com/inheritance)
+👉 [Day 5 – Inheritance](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcepts/src/com/inheritance)
 
 ---
 
-## 📅 Day 16 – Java OOPS: Encapsulation, Polymorphism, Abstract Classes & Interfaces  
+## 📅 Day 6 – Java OOPS: Encapsulation, Polymorphism, Abstract Classes & Interfaces  
 *(Date: 01-Jan-2026)*  
 **Focus:** Encapsulation, Polymorphism, Abstract Classes & Interfaces  
 
@@ -146,7 +146,7 @@ Organized all keyword-based programs systematically in the `java-oops-practice` 
 
 ---
 
-## 📅 Day 17 – Java OOPS: Real-World Scenario-Based Programming  
+## 📅 Day 7 – Java OOPS: Real-World Scenario-Based Programming  
 *(Date: 02-Jan-2026)*  
 **Focus:** Applying Core OOPS Concepts through Real-World Use Cases  
 
@@ -170,7 +170,7 @@ Focused on clean, modular, and maintainable code design.
 
 ---
 
-## 📅 Day 18 – Java OOPS: Advanced Backend System Design  
+## 📅 Day 8 – Java OOPS: Advanced Backend System Design  
 *(Date: 03-Jan-2026)*  
 **Focus:** Startup-Scale Backend Logic using OOPS  
 
@@ -191,7 +191,7 @@ Designed backend logic for **industry-inspired applications**, emphasizing secur
 
 ---
 
-## 📅 Day 19 – Java OOPS: Academic & E-Commerce System Design  
+## 📅 Day 9 – Java OOPS: Academic & E-Commerce System Design  
 *(Date: 05-Jan-2026)*  
 **Focus:** Large-Scale System Modeling using OOPS  
 
@@ -212,7 +212,7 @@ Worked on **complex academic and e-commerce systems**, focusing on real-world da
 
 ---
 
-## 📅 Day 20 – Java OOPS: Scenario-Based Practice  
+## 📅 Day 10 – Java OOPS: Scenario-Based Practice  
 *(Date: 06-Jan-2026)*  
 **Focus:** Applying Core OOPS Concepts through Real-World Use Cases
 ---
@@ -266,3 +266,28 @@ Worked on **complex academic and e-commerce systems**, focusing on real-world da
 
 ---
 
+## 📅 Day 11 – Java OOPS: Scenario-Based Problem Solving  
+*(Date: 07-Jan-2026)*  
+**Focus:** Real-World Application of OOPS Concepts  
+
+Worked on **scenario-based Java applications** to understand how multiple OOPS concepts are applied together to solve real-world problems.
+
+### Scenarios Implemented
+- **ParkEase** – Smart Parking Management System  
+- **LoanBuddy** – Loan & EMI Management System  
+- **BookBazaar** – Online Book Store System  
+
+### Concepts Applied
+- Encapsulation to protect internal data  
+- Inheritance to represent hierarchical relationships  
+- Abstraction using interfaces  
+- Polymorphism for dynamic behavior  
+- Operators for charges, EMI, and discount calculations  
+- Proper access modifiers for secure data handling  
+
+Focused on writing **clean, modular, and reusable code** with clear business logic and real-world mapping.
+
+🔗 **Scenario Codebase:**  
+👉 [Scenario-Based OOPS Practice](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
+---
