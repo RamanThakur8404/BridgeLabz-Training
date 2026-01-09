@@ -70,3 +70,20 @@ Today, I learned how **sorting algorithms** help arrange data efficiently.
 🔗 **Code Link:**  
 👉 [Day 3 – Sorting Algorithms (DSA)](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/datastructure/sorting)
 
+### 📅 Day 4 – Searching Algorithms & Java Utilities  
+**(Date: 06-Jan-2026)**
+- Studied Searching Algorithms:
+  - Linear Search
+  - Binary Search
+- Understood searching logic and comparison-based searching.
+- Studied Java mutable string classes:
+  - `StringBuilder`
+  - `StringBuffer`
+- Learned Java input handling using:
+  - `FileReader`
+  - `InputStreamReader`
+- Practiced implementations and solved problems on each concept.
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Day 4 - Searching & Java Utilities](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/datastructure/searching)
+
