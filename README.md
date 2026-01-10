@@ -6,6 +6,24 @@
 
 On this day, I studied **Linked Lists** as a core linear data structure used for dynamic data storage.
 
+```
+BridgeLabz-Training/
+│── java-dsa-practice/
+│ 	│── gcr-codebase/
+|   |   |── javaDsaConcepts/
+|   |       |── src/
+|   |           |── com/
+|   |               |── datastructure/
+|   |                   |── linkedlist/
+|   |                   |── stackandqueue/
+|   |                   |── hashmap/
+|   |                   |── sorting/
+|   |                   |── searching/
+|   |                   |── runtimeanalysis/
+│ 	│── scenario-based-codebase/
+│── README.md
+```
+
 ### Key Learnings
 - Understood the importance of **Data Structures & Algorithms** in optimizing program performance.
 - Learned how Linked Lists differ from arrays by using **non-contiguous memory**.
@@ -46,6 +64,7 @@ This day focused on understanding **stack, queue, and hashing techniques** for e
 
 🔗 **Code Link:**  
 👉 [Day 2 – Stack, Queue & Hashing (DSA)](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/datastructure)
+
 ---
 
 # 📅 Day 3 – Sorting Algorithms  
@@ -70,6 +89,8 @@ Today, I learned how **sorting algorithms** help arrange data efficiently.
 🔗 **Code Link:**  
 👉 [Day 3 – Sorting Algorithms (DSA)](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/datastructure/sorting)
 
+---
+
 ### 📅 Day 4 – Searching Algorithms & Java Utilities  
 **(Date: 06-Jan-2026)**
 - Studied Searching Algorithms:
@@ -87,3 +108,18 @@ Today, I learned how **sorting algorithms** help arrange data efficiently.
 - 🔗 **Code Link:**  
 👉 [Day 4 - Searching & Java Utilities](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/datastructure/searching)
 
+---
+
+### 📅 Day 5 – Algorithm Runtime Analysis & Big-O Notation  
+**(Date: 07-Jan-2026)**
+- Studied algorithm runtime analysis.
+- Understood Big-O notation and its importance.
+- Analyzed time complexity of algorithms.
+- Analyzed space complexity and memory usage.
+- Learned best, worst, and average case complexities.
+- Studied practical guidelines for optimizing Java code.
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Runtime Analysis & Big-O Notation](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/datastructure/runtimeanalysis)
+
+---
