@@ -123,3 +123,16 @@ Today, I learned how **sorting algorithms** help arrange data efficiently.
 👉 [Runtime Analysis & Big-O Notation](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/datastructure/runtimeanalysis)
 
 ---
+
+### 📅 Day 6 – Scenario based problem solving  
+**(Date: 10-Jan-2026)**
+
+- Solved 3 Dsa scenario based problems
+  - BookShelf – Library Organizer
+  - Browser Buddy – Tab History Manager
+  - AmbulanceRoutte – Emergency Patient Navigation 
+
+🔗 **Scenario Codebase:**  
+👉 [Scenario-Based DSA Practice](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioDsaPractice/src/com)
+
+---
