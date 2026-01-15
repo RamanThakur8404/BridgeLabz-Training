@@ -291,8 +291,8 @@ Focused on writing **clean, modular, and reusable code** with clear business log
 👉 [Scenario-Based OOPS Practice](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
 ---
-## 📅 Day 12 – OOPS- Scenario Based Problem Solving
-*(Date: 08 -Jan-2025)*
+## 📅 Day 12 – Java OOPS- Scenario Based Problem Solving
+*(Date: 08-Jan-2025)*
 
 - Solved 2 oops scenario based problems
   - MediStore – Pharmacy Inventory & Sales System
@@ -300,4 +300,18 @@ Focused on writing **clean, modular, and reusable code** with clear business log
 
 🔗 **Scenario Codebase:**  
 👉 [Scenario-Based OOPS Practice](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
+---
+
+## 📅 Day 13 – Java OOPS- Scenario Based Problem Solving
+*(Date: 12-Jan-2026)*
+
+- Solved 3 oops scenario based problems
+  - HomeNest – Smart Home Device Manager
+  - BudgetWise – Personal Finance Tracker
+  - GameBox – Mobile Game Distribution Platform
+
+🔗 **Scenario Codebase:**  
+👉 [Scenario-Based OOPS Practice](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
 ---
