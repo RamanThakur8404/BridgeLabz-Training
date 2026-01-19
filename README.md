@@ -136,3 +136,33 @@ Today, I learned how **sorting algorithms** help arrange data efficiently.
 👉 [Scenario-Based DSA Practice](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioDsaPractice/src/com)
 
 ---
+
+### 📅 Day 7 – Scenario Based Problem Solving  
+**(Date: 12-Jan-2026)**
+
+- Solved 5 Dsa scenario based problems
+  - CallCenter – Customer Queue Manager
+  - TrainCompanion – Compartment Navigation System
+  - TextEditor – Undo/Redo Functionality
+  - TrafficManager – Roundabout Vehicle Flow
+  - BookShelf – Library Organizer 
+
+🔗 **Scenario Codebase:**  
+👉 [Scenario-Based DSA Practice](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioDsaPractice/src/com)
+
+---
+
+### 📅 Day 8 – Scenario Based Problem Solving  
+**(Date: 12-Jan-2026)**
+
+- Solved 5 Dsa scenario based problems
+  - CallCenter – Customer Queue Manager
+  - TrainCompanion – Compartment Navigation System
+  - TextEditor – Undo/Redo Functionality
+  - TrafficManager – Roundabout Vehicle Flow
+  - BookShelf – Library Organizer 
+
+🔗 **Scenario Codebase:**  
+👉 [Scenario-Based DSA Practice](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioDsaPractice/src/com)
+
+---
