@@ -3,6 +3,8 @@
 .settings/
 .classpath
 .project
+.mvn/
+.xml
 
 # Java
 *.class
