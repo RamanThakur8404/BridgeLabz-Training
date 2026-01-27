@@ -1,0 +1,100 @@
+Java is a platform-independent programming language.
+The JVM executes Java bytecode.
+JDK includes JRE and development tools.
+JRE provides libraries and JVM to run Java programs.
+A class is a blueprint for creating objects.
+An object is an instance of a class.
+Encapsulation binds data and methods together.
+Inheritance allows one class to acquire properties of another.
+Polymorphism allows one method to have multiple forms.
+Abstraction hides implementation details from users.
+Method overloading is compile-time polymorphism.
+Method overriding is runtime polymorphism.
+Constructors initialize objects.
+The main method is the entry point of a Java program.
+The String class is immutable.
+Heap memory stores objects.
+Stack memory stores method calls.
+Checked exceptions are checked at compile time.
+Unchecked exceptions occur at runtime.
+IOException is a checked exception.
+NullPointerException is an unchecked exception.
+ArrayList allows duplicate elements.
+HashSet does not allow duplicate elements.
+HashMap stores data in key-value pairs.
+Hashtable is synchronized.
+Iterator is used to traverse collections.
+Streams support functional-style operations.
+Lambda expressions reduce boilerplate code.
+Functional interfaces have one abstract method.
+Comparable is used for natural ordering.
+Comparator is used for custom ordering.
+FileInputStream reads binary data.
+FileReader reads character data.
+BufferedReader improves performance.
+Serialization converts objects into bytes.
+Deserialization converts bytes into objects.
+Multithreading improves performance.
+Thread class creates a new thread.
+Runnable is a functional interface.
+Synchronization avoids race conditions.
+Deadlock occurs when threads wait forever.
+final keyword prevents modification.
+static members belong to the class.
+this refers to the current object.
+super refers to parent class.
+Packages organize classes.
+Access modifiers control visibility.
+public is accessible everywhere.
+private is accessible within the class.
+protected is accessible within package.
+default has package-level access.
+Java is a platform-independent programming language.
+The JVM executes Java bytecode.
+JDK includes JRE and development tools.
+JRE provides libraries and JVM to run Java programs.
+A class is a blueprint for creating objects.
+An object is an instance of a class.
+Encapsulation binds data and methods together.
+Inheritance allows one class to acquire properties of another.
+Polymorphism allows one method to have multiple forms.
+Abstraction hides implementation details from users.
+Method overloading is compile-time polymorphism.
+Method overriding is runtime polymorphism.
+Constructors initialize objects.
+The main method is the entry point of a Java program.
+The String class is immutable.
+Heap memory stores objects.
+Stack memory stores method calls.
+Checked exceptions are checked at compile time.
+Unchecked exceptions occur at runtime.
+IOException is a checked exception.
+NullPointerException is an unchecked exception.
+ArrayList allows duplicate elements.
+HashSet does not allow duplicate elements.
+HashMap stores data in key-value pairs.
+Hashtable is synchronized.
+Iterator is used to traverse collections.
+Streams support functional-style operations.
+Lambda expressions reduce boilerplate code.
+Functional interfaces have one abstract method.
+Comparable is used for natural ordering.
+Comparator is used for custom ordering.
+FileInputStream reads binary data.
+FileReader reads character data.
+BufferedReader improves performance.
+Serialization converts objects into bytes.
+Deserialization converts bytes into objects.
+Multithreading improves performance.
+Thread class creates a new thread.
+Runnable is a functional interface.
+Synchronization avoids race conditions.
+Deadlock occurs when threads wait forever.
+final keyword prevents modification.
+static members belong to the class.
+this refers to the current object.
+super refers to parent class.
+Packages organize classes.
+Access modifiers control visibility.
+public is accessible everywhere.
+private is accessible within the class.
