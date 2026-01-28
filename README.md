@@ -19,6 +19,21 @@ BridgeLabz-Training/
 │   │           └── 📁 com/
 │   │               ├── 📁 generics/
 │   │               ├── 📁 collections/
+│   │               ├── 📁 streams/
+│   │               ├── 📁 regex/
+│   │               ├── 📁 exceptionhandling/
+│   │               ├── 📁 reflections/
+│   │               ├── 📁 annotations/
+│   │   └── 📁 Junit/
+│   │       └── 📁 src/
+│   │           └── 📁 main/
+│   │               ├── 📁 java/
+│   │                   ├── 📁 com/
+│   │                       ├── 📁 Junit/
+│   │           └── 📁 test/
+│   │               ├── 📁 java/
+│   │                   ├── 📁 com/
+│   │                       ├── 📁 Junit/
 │   └── 📁 scenario-based-codebase/
 │
 └── README.md
@@ -83,5 +98,31 @@ Learned and practiced the **Java Collections Framework** in depth:
 
 🔗 **Code Links:**   
 👉 [Day 2 - Java Collections Framework](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/collections)
+
+---
+
+## 📅 Day 3 – Java I/O Streams (Date: 19-Jan-2026)
+**(Date: 19-Jan-2026)** 
+**Branch:** `java-collections-practice`
+
+### Overview
+Today, we explored **Java I/O Streams**, focusing on file operations, object serialization, and memory streams. The key concepts include Byte Streams, Character Streams, and best practices for handling files efficiently.
+
+#### Topics Covered:
+- **Byte Streams**: `FileInputStream`, `FileOutputStream`
+- **Character Streams**: `FileReader`, `FileWriter`
+- **Buffered Streams**: `BufferedInputStream`, `BufferedOutputStream`, `BufferedReader`, `BufferedWriter`
+- **Object Streams**: `ObjectInputStream`, `ObjectOutputStream` for serialization
+- **In-memory Streams**: `ByteArrayInputStream`, `ByteArrayOutputStream`
+- **Bridge Streams**: `InputStreamReader`, `OutputStreamWriter`
+- **Try-with-resources** for resource management and file performance optimizations.
+
+#### Practical Problems:
+- **File Copy** using Byte Streams.
+- **Serialization** and **Deserialization** of objects.
+- Efficient **Large File Reading** with buffering.
+
+🔗 **Code Links:**   
+👉 [Day 2 - Java Collections Framework](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/streams)
 
 ---
