@@ -101,9 +101,9 @@ Learned and practiced the **Java Collections Framework** in depth:
 
 ---
 
-## 📅 Day 3 – Java I/O Streams (Date: 19-Jan-2026)
+## 📅 Day 3 – Java I/O Streams 
 **(Date: 19-Jan-2026)** 
-**Branch:** `java-collections-practice`
+
 
 ### Overview
 Today, we explored **Java I/O Streams**, focusing on file operations, object serialization, and memory streams. The key concepts include Byte Streams, Character Streams, and best practices for handling files efficiently.
@@ -123,6 +123,28 @@ Today, we explored **Java I/O Streams**, focusing on file operations, object ser
 - Efficient **Large File Reading** with buffering.
 
 🔗 **Code Links:**   
-👉 [Day 2 - Java Collections Framework](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/streams)
+👉 [Day 3 - Java IO Streams](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/streams)
 
 ---
+
+## 📅 Day 4 – Exception Handling 
+**(Date: 20-Jan-2026)**
+
+### Overview
+Today, we focused on **Java Exception Handling**, understanding the exception hierarchy, and learning how to handle errors effectively using `try`, `catch`, and `finally`.
+
+#### Topics Covered:
+- **Exception Hierarchy**: Differentiated between checked and unchecked exceptions.
+- **Error Handling**: Used `try-catch`, `finally`, and multiple `catch` blocks.
+- **Granular Error Handling**: Applied nested `try-catch` for specific error management.
+- **Throw & Throws**: Learned how to create and propagate exceptions.
+- **Custom Exceptions**: Designed exceptions for business rules.
+- **Try-with-Resources**: Automated resource management to avoid leaks.
+
+#### Practical Problems:
+- Handled common runtime exceptions.
+- Solved scenario-based problems using exception handling.
+
+
+🔗 **Code Links:**   
+👉 [Day 4 - Java Exception Handling](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/s]exceptionhandling)
