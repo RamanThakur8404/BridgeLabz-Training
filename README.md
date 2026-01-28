@@ -148,11 +148,13 @@ Today, we focused on **Java Exception Handling**, understanding the exception hi
 🔗 **Code Links:**   
 👉 [Day 4 - Java Exception Handling](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exceptionhandling)
 
-# 🗓 Day 26 – Regex & JUnit Testing 
+---
+
+# 📅 Day 5 – Regex & JUnit Testing 
 **(Date: 21-Jan-2026)**
 
 ### Overview
-On Day 26, we explored **Java Regular Expressions** for pattern matching and validation, followed by **JUnit 5 Testing** to write structured and automated unit tests.
+ we explored **Java Regular Expressions** for pattern matching and validation, followed by **JUnit 5 Testing** to write structured and automated unit tests.
 
 #### Topics Covered
 
@@ -190,4 +192,39 @@ On Day 26, we explored **Java Regular Expressions** for pattern matching and val
 👉 [Day 5 - Regex](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regex)   
 👉 [Day 5 - Junit](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/Junit/src/)
 
+---
+
+# 📅 Day 6 – Annotations & Reflection (Date: 22-Jan-2026)
+
+## Overview
+we delved into **Java Annotations** and **Reflection**, focusing on both built-in and custom annotations, and learning how to retrieve and work with annotations at runtime. We also explored the fundamentals of **Reflection** to inspect and manipulate classes and objects dynamically.
+
+### Topics Covered
+
+#### 🔹 Annotations
+- Standard annotations: `@Override`, `@Deprecated`, `@SuppressWarnings`
+- Custom annotations with attributes and defaults
+- **Repeatable annotations** using `@Repeatable`
+- Retrieved annotation metadata using **Reflection API**
+- Field and method validation using annotations
+- Role-based access control simulation with custom annotations
+- **Annotation-driven utilities** for:
+  - JSON mapping
+  - Caching mechanisms
+
+#### 🔹 Reflection
+- Java Reflection fundamentals:
+  - Inspecting classes, fields, methods, and constructors
+  - Dynamic object creation and method invocation
+- Accessed **private** and **static** members via Reflection
+- Advanced Reflection use cases:
+  - **Execution-time logging**
+  - **JSON generation**
+  - **Dependency injection simulation**
+
+🔗 **Code Links:**   
+👉 [Day 6 - Reflections](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflections)   
+👉 [Day 6 - Annotations](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotations)
+
+---
 
