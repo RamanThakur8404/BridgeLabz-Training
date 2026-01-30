@@ -4,7 +4,6 @@ import java.util.*;
 
 public class WordCount {
     public static void main(String[] args) {
-
         String fileName = "src/com/streams/readlargefile/largeFile.txt";
         Map<String, Integer> wordCount = new HashMap<>();
         int totalWords = 0;
