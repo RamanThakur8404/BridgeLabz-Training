@@ -54,3 +54,41 @@ On this day, I studied **Java 8 functional programming concepts** to write clean
 👉 [Day 1 – Java 8 Practice](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com)
 
 ---
+
+## 📅 Day 2 – Java 8 Streams API & Collectors  
+*(Date: 28-Jan-2026)*  
+**Focus:** Data Processing with Streams, forEach & Collectors  
+
+This day focused on mastering the **Java 8 Streams API** for declarative and efficient data processing.
+
+### Key Learnings
+- Studied **Streams API** and understood stream pipelines:
+  - Source
+  - Intermediate operations
+  - Terminal operations
+- Learned iteration using `forEach()` with lambda expressions.
+- Practiced **intermediate operations**:
+  - `filter()`
+  - `map()`
+  - `sorted()`
+  - `distinct()`
+- Explored **Collectors** and their role in collecting stream results.
+- Worked with commonly used collectors:
+  - `toList()`
+  - `toSet()`
+  - `toMap()`
+  - `groupingBy()`
+  - `counting()`
+- Focused on writing **clean, readable, and efficient functional-style Java 8 code**.
+
+### Practical Application
+Applied Java 8 Streams and Collectors in the **Smart City Transport & Service Management System**:
+- Filtered transport schedules
+- Displayed live services
+- Analyzed passenger trip data
+- Implemented real-world data processing scenarios using functional programming concepts
+
+🔗 **Code Link:**  
+👉 [Day 2 – Java 8 Streams Practice](https://github.com/RamanThakur8404/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com)
+
+---
