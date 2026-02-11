@@ -1,0 +1,282 @@
+-- ============================================================
+-- Problem: Exercise 3 - Advanced Features (Library Management System)
+-- File: book.db
+-- Table: book, student, borrow_record
+-- Database: mysql_practice_db
+-- ============================================================
+
+-- mysql>
+USE mysql_practice_db;
+
+/* o/p
+Database changed
+*/
+
+-- mysql>
+DROP TABLE IF EXISTS borrow_record;
+
+/* o/p
+Query OK, 0 rows affected (0.00 sec)
+*/
+
+-- mysql>
+DROP TABLE IF EXISTS student;
+
+/* o/p
+Query OK, 0 rows affected (0.00 sec)
+*/
+
+-- mysql>
+DROP TABLE IF EXISTS book;
+
+/* o/p
+Query OK, 0 rows affected (0.00 sec)
+*/
+
+-- mysql>
+ CREATE TABLE book(book_id INT PRIMARY KEY AUTO_INCREMENT,
+      title VARCHAR(90) NOT NULL,
+      author VARCHAR(50),
+      category VARCHAR(50),
+      total_copies INT,
+      available_copies INT
+      );
+
+/* o/p
+Query OK, 0 rows affected (0.02 sec)
+*/
+
+-- mysql>
+DESC book;
+
+/* o/p
++------------------+-------------+------+-----+---------+----------------+
+| Field            | Type        | Null | Key | Default | Extra          |
++------------------+-------------+------+-----+---------+----------------+
+| book_id          | int         | NO   | PRI | NULL    | auto_increment |
+| title            | varchar(90) | NO   |     | NULL    |                |
+| author           | varchar(50) | YES  |     | NULL    |                |
+| category         | varchar(50) | YES  |     | NULL    |                |
+| total_copies     | int         | YES  |     | NULL    |                |
+| available_copies | int         | YES  |     | NULL    |                |
++------------------+-------------+------+-----+---------+----------------+
+6 rows in set (0.00 sec)
+*/
+
+-- mysql>
+ INSERT INTO book (title, author, category, total_copies, available_copies) VALUES
+       ('Math Basics', 'John Smith', 'Education', 10, 10),
+       ('Science Guide', 'David Lee', 'Education', 8, 8),
+       ('English Grammar', 'Mary John', 'Language', 12, 12),
+       ('History Notes', 'Ravi Kumar', 'History', 6, 6),
+       ('Computer Basics', 'Anita Sharma', 'Technology', 9, 9);
+
+/* o/p
+Query OK, 5 rows affected (0.03 sec)
+Records: 5  Duplicates: 0  Warnings: 0
+*/
+
+-- mysql>
+SELECT * FROM book;
+
+/* o/p
++---------+-----------------+--------------+------------+--------------+------------------+
+| book_id | title           | author       | category   | total_copies | available_copies |
++---------+-----------------+--------------+------------+--------------+------------------+
+|       1 | Math Basics     | John Smith   | Education  |           10 |               10 |
+|       2 | Science Guide   | David Lee    | Education  |            8 |                8 |
+|       3 | English Grammar | Mary John    | Language   |           12 |               12 |
+|       4 | History Notes   | Ravi Kumar   | History    |            6 |                6 |
+|       5 | Computer Basics | Anita Sharma | Technology |            9 |                9 |
++---------+-----------------+--------------+------------+--------------+------------------+
+5 rows in set (0.00 sec)
+*/
+
+-- mysql>
+CREATE TABLE student (
+student_id INT PRIMARY KEY AUTO_INCREMENT,
+student_name VARCHAR(60)
+);
+
+/* o/p
+Query OK, 0 rows affected (0.02 sec)
+*/
+
+-- mysql> 
+DESC student;
+
+/* o/p
++--------------+-------------+------+-----+---------+----------------+
+| Field        | Type        | Null | Key | Default | Extra          |
++--------------+-------------+------+-----+---------+----------------+
+| student_id   | int         | NO   | PRI | NULL    | auto_increment |
+| student_name | varchar(60) | YES  |     | NULL    |                |
++--------------+-------------+------+-----+---------+----------------+
+2 rows in set (0.00 sec)
+*/
+
+-- mysql>
+INSERT INTO student (student_name) VALUES
+('Rahul Sharma'),
+('Priya Verma'),
+('Amit Kumar'),
+('Sneha Reddy'),
+('Karan Mehta');
+
+/* o/p
+Query OK, 5 rows affected (0.02 sec)
+Records: 5  Duplicates: 0  Warnings: 0
+*/
+
+-- mysql> 
+SELECT * FROM student;
+
+/* o/p
++------------+--------------+
+| student_id | student_name |
++------------+--------------+
+|          1 | Rahul Sharma |
+|          2 | Priya Verma  |
+|          3 | Amit Kumar   |
+|          4 | Sneha Reddy  |
+|          5 | Karan Mehta  |
++------------+--------------+
+5 rows in set (0.00 sec)
+*/
+
+-- mysql>
+CREATE TABLE borrow_records (
+borrow_id INT PRIMARY KEY AUTO_INCREMENT,
+student_id INT,
+book_id INT,
+borrow_date DATE,
+return_date DATE,
+fine_amount DECIMAL(8,2),
+FOREIGN KEY (student_id) REFERENCES student(student_id),
+FOREIGN KEY (book_id) REFERENCES book(book_id)
+);
+
+/* o/p
+Query OK, 0 rows affected (0.02 sec)
+*/
+
+-- mysql>
+DESC borrow_records;
+
+/* o/p
++-------------+--------------+------+-----+---------+----------------+
+| Field       | Type         | Null | Key | Default | Extra          |
++-------------+--------------+------+-----+---------+----------------+
+| borrow_id   | int          | NO   | PRI | NULL    | auto_increment |
+| student_id  | int          | YES  | MUL | NULL    |                |
+| book_id     | int          | YES  | MUL | NULL    |                |
+| borrow_date | date         | YES  |     | NULL    |                |
+| return_date | date         | YES  |     | NULL    |                |
+| fine_amount | decimal(8,2) | YES  |     | NULL    |                |
++-------------+--------------+------+-----+---------+----------------+
+6 rows in set (0.00 sec)
+*/
+
+-- mysql> 
+INSERT INTO borrow_records (student_id, book_id, borrow_date, return_date, fine_amount) VALUES
+    -> (1, 1, '2026-02-01', '2026-02-10', 0.00),
+    -> (2, 3, '2026-02-02', '2026-02-12', 10.00),
+    -> (3, 2, '2026-02-03', NULL, 0.00),
+    -> (4, 5, '2026-02-04', '2026-02-14', 5.00),
+    -> (5, 4, '2026-02-05', NULL, 0.00);
+
+/* o/p
+Query OK, 5 rows affected (0.01 sec)
+Records: 5  Duplicates: 0  Warnings: 0
+*/
+
+-- mysql> 
+SELECT * FROM borrow_records;
+
+/* o/p
++-----------+------------+---------+-------------+-------------+-------------+
+| borrow_id | student_id | book_id | borrow_date | return_date | fine_amount |
++-----------+------------+---------+-------------+-------------+-------------+
+|         1 |          1 |       1 | 2026-02-01  | 2026-02-10  |        0.00 |
+|         2 |          2 |       3 | 2026-02-02  | 2026-02-12  |       10.00 |
+|         3 |          3 |       2 | 2026-02-03  | NULL        |        0.00 |
+|         4 |          4 |       5 | 2026-02-04  | 2026-02-14  |        5.00 |
+|         5 |          5 |       4 | 2026-02-05  | NULL        |        0.00 |
++-----------+------------+---------+-------------+-------------+-------------+
+5 rows in set (0.01 sec)
+*/
+
+=================================================================================
+		Fine Calculation for Late Return (After 7 Days) :
+=================================================================================
+
+-- mysql> 
+SELECT borrow_id, student_id, book_id,
+    -> DATEDIFF(CURDATE(), borrow_date)-7 AS late_days,
+    -> (DATEDIFF(CURDATE(), borrow_date)-7)*5 AS fine_amount
+    -> FROM borrow_records
+    -> WHERE return_date IS NULL
+    -> AND DATEDIFF(CURDATE(), borrow_date) > 7;
+
+/*o/p
++-----------+------------+---------+-----------+-------------+
+| borrow_id | student_id | book_id | late_days | fine_amount |
++-----------+------------+---------+-----------+-------------+
+|         3 |          3 |       2 |         2 |          10 |
++-----------+------------+---------+-----------+-------------+
+1 row in set (0.01 sec)
+*/ 
+
+
+=================================================================================
+		Search Book by Author and Category :
+=================================================================================
+   
+-- mysql> 
+SELECT * FROM book WHERE author = 'John Smith' AND category = 'Education';
+
+/* o/p
++---------+-------------+------------+-----------+--------------+------------------+
+| book_id | title       | author     | category  | total_copies | available_copies |
++---------+-------------+------------+-----------+--------------+------------------+
+|       1 | Math Basics | John Smith | Education |           10 |               10 |
++---------+-------------+------------+-----------+--------------+------------------+
+1 row in set (0.01 sec)   
+*/
+
+=================================================================================
+		Search Available Books :
+=================================================================================
+   
+-- mysql> 
+SELECT * FROM book WHERE available_copies > 0;
+
+/* o/p
++---------+-----------------+--------------+------------+--------------+------------------+
+| book_id | title           | author       | category   | total_copies | available_copies |
++---------+-----------------+--------------+------------+--------------+------------------+
+|       1 | Math Basics     | John Smith   | Education  |           10 |               10 |
+|       2 | Science Guide   | David Lee    | Education  |            8 |                8 |
+|       3 | English Grammar | Mary John    | Language   |           12 |               12 |
+|       4 | History Notes   | Ravi Kumar   | History    |            6 |                6 |
+|       5 | Computer Basics | Anita Sharma | Technology |            9 |                9 |
++---------+-----------------+--------------+------------+--------------+------------------+
+5 rows in set (0.00 sec)
+*/
+
+=================================================================================
+							Search Book by Title :
+=================================================================================
+   
+-- mysql> 
+SELECT * FROM book WHERE title LIKE '%G%';
+
+/* o/p
++---------+-----------------+-----------+-----------+--------------+------------------+
+| book_id | title           | author    | category  | total_copies | available_copies |
++---------+-----------------+-----------+-----------+--------------+------------------+
+|       2 | Science Guide   | David Lee | Education |            8 |                8 |
+|       3 | English Grammar | Mary John | Language  |           12 |               12 |
++---------+-----------------+-----------+-----------+--------------+------------------+
+2 rows in set (0.00 sec)
+*/
