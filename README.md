@@ -7,23 +7,25 @@ The focus is on **functional programming enhancements**, clean code practices, a
 
 ## 📘 Week 6: Java 8 Features  
 
----
-
+```
 BridgeLabz-Training/
-│── java8-programming-practice/
-│ 	│── gcr-codebase/
-|   |   └── Java8Concepts/
-|   |       └── src/
-|   |           └── com/
-|   |               ├── lambdaexpression/
-|   |               ├── methodreferences/
-|   |               ├── interfaces/
-|   |               ├── streamsapi/
-|   |               ├── collectors/
-|   |               ├── smartcitytransport/
-│ 	│── leet-code-codebase/
-│ 	└── scenario-based-codebase/
+│
+├── 📁 java8-programming-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 Java8Concepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 lambdaexpression/           
+│   │               ├── 📁 methodreferences/  
+│   │               ├── 📁 interfaces/        
+│   │               ├── 📁 streamsapi/         
+│   │               ├── 📁 collectors/        
+│   │               └── 📁 smartcitytransport/
+│   ├── 📁 leet-code-codebase/               
+│   └── 📁 scenario-based-codebase/           
+│
 └── README.md
+```
 
 ## 📅 Day 1 – Java 8: Lambda Expressions, Functional Interfaces & Method References  
 *(Date: 27-Jan-2026)*  
